@@ -1,0 +1,10 @@
+<style amp-custom>
+  /* Cualquier estilo personalizado va aquí */
+  body {
+    background-color: white;
+  }
+  amp-img {
+    background-color: gray;
+    border: 1px solid black;
+  }
+</style>
